@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "freertos.h": "c",
+        "sdkconfig.h": "c",
+        "esp_log.h": "c",
+        "mqtt_client.h": "c",
+        "mqtt5_client.h": "c",
+        "queue.h": "c",
+        "esp_wifi.h": "c",
+        "protocol_examples_common.h": "c",
+        "main.h": "c",
+        "stdint.h": "c",
+        "cjson.h": "c",
+        "esp_http_client.h": "c",
+        "ledc.h": "c",
+        "pcnt.h": "c",
+        "esp_event.h": "c",
+        "pulse_cnt.h": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "fstream": "c",
+        "new": "c",
+        "numeric": "c",
+        "system_error": "c"
+    },
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "enabled"
+}

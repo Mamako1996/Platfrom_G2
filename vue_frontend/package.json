@@ -1,0 +1,29 @@
+{
+  "name": "nest_of_eric_frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vuepic/vue-datepicker": "^7.4.0",
+    "axios": "^1.6.2",
+    "bulma": "^0.9.4",
+    "vue": "^3.3.10",
+    "vue-router": "^4.2.5",
+    "vue-websocket": "^0.2.3",
+    "vuex": "^4.1.0",
+    "vxe-table": "^4.7.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "sass": "^1.69.5",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.5"
+  }
+}
